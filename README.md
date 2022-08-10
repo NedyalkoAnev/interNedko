@@ -1,5 +1,4 @@
 - 👋 Hi, I’m Nedyalko Anev
 - 👀 I’m interested in programming
 - 🌱 I’m currently learning Python and MongoDB
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: just send me mail on nedyalkoanev@gmail.com
